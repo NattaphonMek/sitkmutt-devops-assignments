@@ -1,2 +1,3 @@
-# sitkmutt-devops-assignments
-For doing assignment of INT492 DevSecOps
+# Practical DevOps Assignments
+
+This is repository to submit assignments for Practical DevOps
